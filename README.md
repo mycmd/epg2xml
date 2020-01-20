@@ -1,7 +1,9 @@
 # 공지
-epg2xml은 1.2.6 버전 
-3월 31일 wonipapa/epg2xml 포크함
-1.2.7p1 적용
+ 
+- epg2xml은 1.2.6 버전 
+- 3월 31일 wonipapa/epg2xml 포크함
+- 1.2.7p1 적용
+ 
 
 # EPG2XML
 이 프로그램은 EPG(Electronic Program Guide)를 웹상의 여러 소스에서 가져와서 XML로 출력하는 프로그램으로 python2.7 및 php5.4.45 이상에서 사용 가능하도록 제작되었다.  
